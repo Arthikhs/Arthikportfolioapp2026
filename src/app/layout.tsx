@@ -5,21 +5,21 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Puneeth Kumar M | Backend & Cloud Engineer',
-  description: 'Spring Boot • AWS • DevOps • Docker • CI/CD',
-  keywords: 'Backend Engineer, Cloud Engineer, Spring Boot, AWS, DevOps, Docker, CI/CD, Java, Python',
-  authors: [{ name: 'Puneeth Kumar M' }],
-  creator: 'Puneeth Kumar M',
+  title: 'Arthik H S | Java Full-Stack Developer',
+  description: 'Java • Spring Boot • React.js • AWS • Docker • Microservices',
+  keywords: 'Java Full-Stack Developer, Spring Boot, React.js, AWS, Docker, Microservices, JWT, PostgreSQL',
+  authors: [{ name: 'Arthik H S' }],
+  creator: 'Arthik H S',
   openGraph: {
-    title: 'Puneeth Kumar M | Backend & Cloud Engineer',
-    description: 'Spring Boot • AWS • DevOps • Docker • CI/CD',
+    title: 'Arthik H S | Java Full-Stack Developer',
+    description: 'Java • Spring Boot • React.js • AWS • Docker • Microservices',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Puneeth Kumar M | Backend & Cloud Engineer',
-    description: 'Spring Boot • AWS • DevOps • Docker • CI/CD',
+    title: 'Arthik H S | Java Full-Stack Developer',
+    description: 'Java • Spring Boot • React.js • AWS • Docker • Microservices',
   },
   robots: {
     index: true,
