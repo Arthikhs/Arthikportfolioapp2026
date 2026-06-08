@@ -159,11 +159,7 @@ const About = () => {
             </motion.div>
 
             {/* Stats */}
-            <motion.div variants={itemVariants} className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              <div className="glass rounded-xl p-4 text-center">
-                <div className="text-2xl font-bold gradient-text">1+</div>
-                <div className="text-sm text-gray-400">Years Experience</div>
-              </div>
+            <motion.div variants={itemVariants} className="grid grid-cols-3 gap-4">
               <div className="glass rounded-xl p-4 text-center">
                 <div className="text-2xl font-bold gradient-text">10+</div>
                 <div className="text-sm text-gray-400">Projects Completed</div>
